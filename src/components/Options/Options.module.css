@@ -21,6 +21,6 @@
 .button:hover,
 .button:focus {
   color: rgb(249, 249, 242);
-  background-color: rgb(12, 159, 37);
+  background-color: rgb(9, 168, 157);
   cursor: pointer;
 }

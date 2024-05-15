@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.button {
+  width: 130px;
+  background-color: rgb(245, 235, 243);
+  color: rgb(5, 10, 7);
+  font-size: 25px;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 15px;
+  border: none;
+  box-shadow: 0 9px 10px rgba(208, 49, 17, 0.4);
+}
+.button:hover,
+.button:focus {
+  color: rgb(249, 249, 242);
+  background-color: rgb(12, 159, 37);
+  cursor: pointer;
+}
